@@ -1,1 +1,1 @@
-Get rid of the file
+Delete the directory
