@@ -1,1 +1,3 @@
 la -na
+la -al
+ls -lna
