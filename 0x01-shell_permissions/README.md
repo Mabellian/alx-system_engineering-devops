@@ -1,1 +1,1 @@
-Permit everbody
+Permit everybody
