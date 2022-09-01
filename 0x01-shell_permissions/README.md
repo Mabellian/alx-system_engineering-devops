@@ -1,1 +1,1 @@
-script that creates directory
+a script that changes the group owner
