@@ -1,1 +1,1 @@
-Permit everybody
+-rwxr-x-wx
