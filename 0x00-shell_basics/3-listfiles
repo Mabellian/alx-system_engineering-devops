@@ -1,6 +1,2 @@
-total 16
--rwxr--r-- 1 root root 16 Aug 31 14:53 0-current_working_directory
--rwxr--r-- 1 root root 15 Aug 31 15:56 1-listit
--rwxr--r-- 1 root root 18 Aug 31 16:27 2-bring_me_home
--rw-r--r-- 1 root root  0 Aug 31 16:48 3-listfiles
--rw-r--r-- 1 root root 28 Aug 31 16:26 README.md
+#!/bin/bash
+ls -l
