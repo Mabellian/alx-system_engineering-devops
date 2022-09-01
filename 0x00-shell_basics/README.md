@@ -1,1 +1,1 @@
-a magic file
+a symbolic link
