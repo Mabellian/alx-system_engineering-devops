@@ -1,1 +1,1 @@
-Standard output
+Smiley face
