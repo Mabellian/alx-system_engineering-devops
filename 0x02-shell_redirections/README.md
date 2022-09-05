@@ -1,1 +1,1 @@
-Standard output command
+smiley face
