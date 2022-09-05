@@ -1,1 +1,1 @@
-Display file content
+smiley face
