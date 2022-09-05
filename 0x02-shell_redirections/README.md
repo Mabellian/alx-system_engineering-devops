@@ -1,1 +1,1 @@
-line of standard output
+standard output
