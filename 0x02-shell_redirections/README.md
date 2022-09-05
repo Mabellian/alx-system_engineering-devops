@@ -1,1 +1,1 @@
-smiley face
+Line of standard output
