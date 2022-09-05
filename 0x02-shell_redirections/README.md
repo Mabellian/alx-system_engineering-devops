@@ -1,1 +1,1 @@
-standard output
+Standard output
